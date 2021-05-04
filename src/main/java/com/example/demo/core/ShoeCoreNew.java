@@ -1,9 +1,10 @@
 package com.example.demo.core;
 
-import com.example.demo.dto.in.ShoeFilter;
-import com.example.demo.dto.in.ShoeFilter.Color;
-import com.example.demo.dto.out.Shoe;
-import com.example.demo.dto.out.Shoes;
+import com.example.demo.dto.shoe.Color;
+import com.example.demo.dto.shoe.in.ShoeFilter;
+import com.example.demo.dto.shoe.out.Shoe;
+import com.example.demo.dto.shoe.out.Shoes;
+
 import java.math.BigInteger;
 import java.util.List;
 
